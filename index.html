@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Palindrome Checker</title>
     <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <input id="text-input">
-    <button id="check-btn">Check Palindrome</button>
-    <div><span id="result"></span></div>
-</body>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>This is a Palindrome checker box</h1>
+        <p>You can check everything is a palindrome or not.</p>
+      </header>
+      <div class="new">
+        <input id="text-input" type="text" class="place" placeholder="Enter your palindrome:">
+        <button id="check-btn" class="place">Check the Palindrome</button>
+        <div id="result" class="box"></div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
