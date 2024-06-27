@@ -68,7 +68,8 @@ checkButton.addEventListener('click', () => {
 
 ## Demo 📸
 
-![Demo](/images/Annotation%202024-06-21%20151053.png)
+![palindrome](https://github.com/Hasinarahman/Palindrome-checker/assets/168626170/476d4078-3ba7-48f8-bb00-de14b5a4275a)
+
 
 ## Technologies Used 🛠️
 
