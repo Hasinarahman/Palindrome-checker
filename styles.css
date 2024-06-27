@@ -15,11 +15,12 @@ body {
 
 .wrapper {
   width: 500px;
-  height: 200px;
+  height: 230px;
   border-radius: 10px;
   padding: 20px 25px 15px;
   box-shadow: 0 0 20px rgb(3, 3, 3);
   background-color: azure;
+  text-align: center;
 }
 
 h1 {
