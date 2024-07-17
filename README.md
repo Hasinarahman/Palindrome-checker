@@ -71,6 +71,10 @@ checkButton.addEventListener('click', () => {
 ![palindrome](https://github.com/Hasinarahman/Palindrome-checker/assets/168626170/476d4078-3ba7-48f8-bb00-de14b5a4275a)
 
 
+## Deploy link
+(https://hasinarahman.github.io/Palindrome-checker/)
+
+
 ## Technologies Used 🛠️
 
 - HTML
